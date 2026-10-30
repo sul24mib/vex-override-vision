@@ -1,0 +1,6 @@
+TEST (draft labels): mAP50 0.650  mAP50-95 0.522  precision 0.542  recall 0.707
+  yellow part  mAP50 0.775
+  blue part    mAP50 0.512
+  red part     mAP50 0.656
+  red goal     mAP50 0.738
+  blue goal    mAP50 0.567

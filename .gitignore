@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+# downloaded or generated, too big for git
+*.engine
+*.onnx
+sam*.pt
+yolo11?.pt
+yolov8*.pt
+datasets/
+runs/
+data/
